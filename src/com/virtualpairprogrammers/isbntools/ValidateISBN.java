@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers.isbntool;
+package com.virtualpairprogrammers.isbntools;
 
 public class ValidateISBN {
 
